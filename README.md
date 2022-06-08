@@ -2,8 +2,7 @@
 Tool used during the Student Project 2 - Cracking WiFi Passwords 
 
 ## wigle-kml-converter.sh
-For parsing and converting Wigle KML to Wigle CSV format.
-\t Example, the columns is the following:
+For parsing and converting Wigle KML to Wigle CSV format. The columns in the csv is the following:
 <code>MAC,SSID,AuthMode,FirstSeen,Channel,RSSI,CurrentLatitude,CurrentLongitude,AltitudeMeters,AccuracyMeters,Type</code>
 
 ## wigle-queries.sh
