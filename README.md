@@ -2,7 +2,9 @@
 Tool used during the Student Project 2 - Cracking WiFi Passwords 
 
 ## wigle-kml-converter.sh
-For parsing and converting Wigle KML to Wigle CSV format. 
+For parsing and converting Wigle KML to Wigle CSV format.
+### Example:
+<code>MAC,SSID,AuthMode,FirstSeen,Channel,RSSI,CurrentLatitude,CurrentLongitude,AltitudeMeters,AccuracyMeters,Type</code>
 
 ## wigle-queries.sh
 For queries to wigle.net API with a list of mac addresses for WiFi information such as WiFi name, location, and more to a wigle CSV format. This will be used to find WiFi networks that are missing in the project's dataset. 
