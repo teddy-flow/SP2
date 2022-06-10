@@ -18,4 +18,4 @@ For starting the gpsd host serve, stoping conflicting wifi processes, starting o
 The hegnes wordlist with Norwegian words, names, last names, swearwords, and all of the streets for the biggest Norwegian cities and more.
 
 ## rules
-compare with best64.rule the hegnes did crack 2.6% less hashes, but did decrase the runtime by 102%.
+compare with best64.rule the hegnes.rule did crack 2.6% less hashes, but did decrase the runtime by 102%.
