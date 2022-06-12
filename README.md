@@ -13,3 +13,9 @@ For checking the status during the data collection, it displays CPU and GPU temr
 
 ## screen.sh
 For starting the gpsd host serve, stoping conflicting wifi processes, starting one screen with the status.sh, then three instances of screens with hcxdumptool for the different WiFi adapters, then the last screen is used for kismet. 
+
+## hegnes.txt
+The hegnes wordlist with Norwegian words, names, last names, swearwords, and all of the streets for the biggest Norwegian cities and more.
+
+## rules
+compare with best64.rule the hegnes.rule did crack 2.6% less hashes, but did decrase the runtime by 102%.
