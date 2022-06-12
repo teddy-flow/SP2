@@ -1,5 +1,5 @@
 # SP2
-Tool used during the Student Project 2 - Cracking WiFi Passwords 
+Tool used during the Student Project 2: Operation Bloodhound - Cracking WiFi Passwords.
 
 ## wigle-kml-converter.sh
 For parsing and converting Wigle KML to Wigle CSV format. The columns in the csv is the following:
